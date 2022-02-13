@@ -3,7 +3,7 @@
 <div align="left">
   <a href="https://douglasamaro.vercel.app">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=douglasamaro&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
- 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasamaro&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Douglas-JAVA" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
